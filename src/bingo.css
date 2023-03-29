@@ -1,0 +1,26 @@
+.bingo-form {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: stretch;
+    height: 100vh;
+}
+
+.bingo-square {
+    flex-basis: 20%;
+    background-color: aliceblue;
+    text-align: center;
+    outline: 2px inset red;
+    vertical-align: middle;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    cursor:pointer;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 2vw;
+}
+
+
+.selected {
+    background-color: crimson;
+    color: white;
+}
