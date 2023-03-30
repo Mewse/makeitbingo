@@ -36,7 +36,8 @@ const allPrompts = [
   "Thoughtful and strategic",
   "'Channel your inner winner'",
   "'Dowdy'",
-  "'Unfortunate'"
+  "'Unfortunate'",
+  "'Weird crotch'"
 ]
 
 const selectPrompt = (previousSelection) => {
