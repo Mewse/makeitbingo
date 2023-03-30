@@ -37,7 +37,28 @@ const allPrompts = [
   "'Channel your inner winner'",
   "'Dowdy'",
   "'Unfortunate'",
-  "'Weird crotch'"
+  "'Weird crotch'",
+  "'Here to win'",
+  "They aren't here to make friends",
+  "Family reunion",
+  "'Bizarre'",
+  "'Washed out'",
+  "Someone's a hot mess",
+  "Someone sits on a table",
+  "They use animal print",
+  "Someone rips some fabric",
+  "'I don't do _____ ",
+  "'Sorry, not sorry'",
+  "'Predictable'",
+  "Judges have seen it before",
+  "'Stunning'",
+  "'Elegant'",
+  "'Like a prom dress'",
+  "'Disappointing'",
+  "'A transformation'",
+  "Multiple people go home",
+  "Someone is not impressed",
+  
 ]
 
 const selectPrompt = (previousSelection) => {
