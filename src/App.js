@@ -6,9 +6,9 @@ import { BingoGrid } from './bingo';
 const allPrompts = [
   "'Sad'",
   "'Make It Work'",
-  "Someone gets thrown under a bus",
+  "Someone gets thrown under the bus",
   "'Thanks Mood'",
-  "A dog is on screen",
+  "A dog is on-screen",
   "'Disaster'",
   "'I ran out of time'",
   "Fight",
@@ -29,7 +29,14 @@ const allPrompts = [
   "'Vulgar'",
   "'Inexpensive'",
   "Heidi loves it",
-  "Nobody leaves"
+  "Nobody leaves the competition",
+  "(Wilhelm scream)",
+  "'Fashion forward'",
+  "'Oh my god'",
+  "Thoughtful and strategic",
+  "'Channel your inner winner'",
+  "'Dowdy'",
+  "'Unfortunate'"
 ]
 
 const selectPrompt = (previousSelection) => {
