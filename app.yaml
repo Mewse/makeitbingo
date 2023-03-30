@@ -1,3 +1,1 @@
-runtime: nodejs12
-
-entrypoint: serve -s build
+runtime: nodejs18
