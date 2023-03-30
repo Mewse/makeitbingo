@@ -19,7 +19,7 @@ const allPrompts = [
   "'DONT TELL ME TO CALM DOWN'",
   "'She looks like a _____'",
   "'Calm down'",
-  "Too many accessorites",
+  "Too many accessories",
   "'Matronly",
   "Someone quits",
   "'I am done'",
@@ -53,12 +53,19 @@ const allPrompts = [
   "Judges have seen it before",
   "'Stunning'",
   "'Elegant'",
-  "'Like a prom dress'",
+  "'Like a cocktail / prom dress'",
   "'Disappointing'",
   "'A transformation'",
   "Multiple people go home",
   "Someone is not impressed",
-  
+  "They have a lot of work to do",
+  "'Take it to the next level'",
+  "Someone trusts their gut",
+  "'I might go home for this'",
+  "'Really boring'",
+  "'Mother of the bride'",
+  "'More drama'",
+
 ]
 
 const selectPrompt = (previousSelection) => {
