@@ -33,7 +33,7 @@ const allPrompts = [
   "(Wilhelm scream)",
   "'Fashion forward'",
   "'Oh my god'",
-  "Thoughtful and strategic",
+  "'Thoughtful' / 'strategic'",
   "'Channel your inner winner'",
   "'Dowdy'",
   "'Unfortunate'",
@@ -65,6 +65,17 @@ const allPrompts = [
   "'Really boring'",
   "'Mother of the bride'",
   "'More drama'",
+  "They need to wow the judges",
+  "Tim is concerned",
+  "'Really strong'",
+  "Boy shorts",
+  "Something looks costume",
+  "Someone makes coffee",
+  "Someone brushes their teeth",
+  "A mannequin falls over",
+  "Someone is crazy about it",
+  "Something is `on the line`",
+  "'Fits like a glove'",
 
 ]
 
