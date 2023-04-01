@@ -79,12 +79,12 @@ const allPrompts = [
   "Someone is surprised",
   "Nina loves it",
   "'It's too simple'",
-  "Michael loves it",
+  "Zac loves it",
   "'This is it'",
   "It's different",
   "'Cool'",
   "'WOW pieces'",
-  
+  "Someone has an epiphany",
 ]
 
 const selectPrompt = (previousSelection) => {
