@@ -20,7 +20,7 @@ const allPrompts = [
   "'She looks like a _____'",
   "'Calm down'",
   "Too many accessories",
-  "'Matronly",
+  "'Matronly'",
   "Someone quits",
   "'I am done'",
   "They completely ignore the challenge",
@@ -76,7 +76,15 @@ const allPrompts = [
   "Someone is crazy about it",
   "Something is `on the line`",
   "'Fits like a glove'",
-
+  "Someone is surprised",
+  "Nina loves it",
+  "'It's too simple'",
+  "Michael loves it",
+  "'This is it'",
+  "It's different",
+  "'Cool'",
+  "'WOW pieces'",
+  
 ]
 
 const selectPrompt = (previousSelection) => {
