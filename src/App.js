@@ -85,6 +85,13 @@ const allPrompts = [
   "'Cool'",
   "'WOW pieces'",
   "Someone has an epiphany",
+  "'It is what it is'",
+  "'Tasteless'",
+  "Somebody cries",
+  "This is the worst thing someone has ever done",
+  "Someone wears a wig",
+  "Tim promotes intel",
+  
 ]
 
 const selectPrompt = (previousSelection) => {
