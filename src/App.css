@@ -6,3 +6,35 @@ html, body, #root, .App {
 .App {
   text-align: center;
 }
+
+.blue-bg {
+  background-color: rgb(17, 50, 112);
+}
+
+.red-bg {
+  background-color: rgb(196, 29, 29);
+}
+
+.white-bg {
+  background-color: white;
+}
+
+.black-bg {
+  background-color: black;
+}
+
+.white-fg {
+  color: white;
+}
+
+.black-fg {
+  color: black;
+}
+
+.purple-bg {
+  background-color: rgb(76, 13, 134);
+}
+
+.orange-bg {
+  background-color: rgb(214, 69, 16);
+}

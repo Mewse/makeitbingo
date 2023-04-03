@@ -1,0 +1,31 @@
+.toolbar {
+    height: 10vh;
+    background-color: rgb(24, 93, 158);
+    line-height: 10vh;
+    color: white;
+}
+
+.toolbar p {
+    display: inline-block;
+    margin: 0 10px 0 10px;
+}
+
+.toolbar span {
+    height: 100%;
+}
+
+.toolbar button {
+    margin-left: 20px;
+}
+
+.theme-swatch {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    border: 1px solid black;
+    margin-right: 5px;
+    margin-bottom: -5px;
+}
+
+
+

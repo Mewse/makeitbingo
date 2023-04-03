@@ -2,12 +2,11 @@
     display: flex;
     flex-wrap: wrap;
     align-content: stretch;
-    height: 100vh;
+    height: 90vh;
 }
 
 .bingo-square {
     flex-basis: 20%;
-    background-color: rgb(17, 50, 112);
     text-align: center;
     outline: 2px inset white;
     vertical-align: middle;
@@ -17,10 +16,5 @@
     cursor:pointer;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 1.8vw;
-    color: white;
 }
 
-.selected {
-    background-color: rgb(196, 29, 29);
-    color: white;
-}
