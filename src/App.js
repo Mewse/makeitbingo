@@ -51,6 +51,12 @@ const themes = [
       selectedText: "white-fg",
   },
   {
+      bg: "grey-bg",
+      bgText: "white-fg",
+      selected: "orange-bg",
+      selectedText: "white-fg"
+  },
+  {
       bg: "black-bg",
       bgText: "white-fg",
       selected: "white-bg",
@@ -59,7 +65,13 @@ const themes = [
   {
       bg: "purple-bg",
       bgText: "white-fg",
-      selected: "orange-bg",
+      selected: "pink-bg",
+      selectedText: "white-fg"
+  },
+  {
+      bg: "dark-blue-bg",
+      bgText: "white-fg",
+      selected: "bright-red-bg",
       selectedText: "white-fg"
   },
 ]
