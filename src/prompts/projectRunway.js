@@ -86,5 +86,13 @@ export const allPrompts = [
     "This is the worst thing someone has ever done",
     "Someone wears a wig",
     "Tim promotes intel",
-    "'Run for the hills'"
+    "'Run for the hills'",
+    "'caucus'",
+    "There's a pop of colour",
+    "Someone is confused",
+    "It's the eleventh hour",
+    "Somebody is taking a risk",
+    "Time says something crazy",
+    "'Cohesive'",
+    "Someone is worried about another contestant",
 ]
