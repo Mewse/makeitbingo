@@ -74,6 +74,12 @@ const themes = [
       selected: "bright-red-bg",
       selectedText: "white-fg"
   },
+  {
+      bg: "pastel-purple-bg",
+      bgText: "off-white-fg",
+      selected: "pastel-blue-bg",
+      selectedText: "off-white-fg"
+  },
 ]
 
 function App() {
