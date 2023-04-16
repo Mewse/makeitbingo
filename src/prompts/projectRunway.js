@@ -92,7 +92,7 @@ export const allPrompts = [
     "Someone is confused",
     "It's the eleventh hour",
     "Somebody is taking a risk",
-    "Time says something crazy",
+    "Tim says something crazy",
     "'Cohesive'",
     "Someone is worried about another contestant",
     "'Snoozefest'",
