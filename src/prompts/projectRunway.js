@@ -95,4 +95,15 @@ export const allPrompts = [
     "Time says something crazy",
     "'Cohesive'",
     "Someone is worried about another contestant",
+    "'Snoozefest'",
+    "Someone is playing it safe",
+    "Capelet",
+    "Challenging",
+    "Pedestrian",
+    "Edgy",
+    "Tim Gunn Save",
+    "Zac hates it",
+    "Nina hates it",
+    "Guest judge loves it",
+    "Guest judge hates it"
 ]
