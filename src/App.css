@@ -54,3 +54,16 @@ html, body, #root, .App {
 .orange-bg {
   background-color: rgb(252, 127, 10);
 }
+
+.off-white-fg {
+  color: #fcf5e8; 
+}
+
+.pastel-purple-bg {
+  background-color: #b698d1;
+}
+
+.pastel-blue-bg {
+  background-color: #c2d4e8;
+}
+
